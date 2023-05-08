@@ -14,3 +14,4 @@ jobs:
         uses: BetaHuhn/repo-file-sync-action@v1
         with:
           GH_PAT: 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
+          SKIP_PR: true
