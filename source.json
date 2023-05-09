@@ -1,6 +1,10 @@
 [
     {
-        "Value": "Tou",
+        "Value": "NEW",
+        "DisplayName": "Brand New Value"
+    },
+    {
+        "Value": "TOU",
         "DisplayName": "Hello World"
     },
     {
