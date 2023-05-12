@@ -1,17 +1,17 @@
-name: Sync Files
-on:
-  push:
-    branches:
-      - main
-  workflow_dispatch:
-jobs:
-  sync:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@master
-      - name: Run GitHub File Sync
-        uses: BetaHuhn/repo-file-sync-action@v1
-        with:
-          GH_PAT: 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
-          SKIP_PR: true
+# name: Sync Files
+# on:
+#   push:
+#     branches:
+#       - main
+#   workflow_dispatch:
+# jobs:
+#   sync:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout Repository
+#         uses: actions/checkout@master
+#       - name: Run GitHub File Sync
+#         uses: BetaHuhn/repo-file-sync-action@v1
+#         with:
+#           GH_PAT: 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
+#           SKIP_PR: true
