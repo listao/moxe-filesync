@@ -1,3 +1,3 @@
 listao/moxe-readme-sync@main:
-  - source: data/source.json
-    dest: source.json
+  - source: ConfigFiles/repository/request-source/request-source-list.json
+    dest: request-source-list.json

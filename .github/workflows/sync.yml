@@ -4,7 +4,7 @@ on:
     branches:
       - main
     paths: 
-      - data/**.json
+      - ConfigFiles/repository/request-source/request-source-list.json
   workflow_dispatch:
 jobs:
   sync:
