@@ -1,2 +1,3 @@
 listao/moxe-readme-sync@main:
-  - data/source.json
+  - source: data/source.json
+    dest: source.json
