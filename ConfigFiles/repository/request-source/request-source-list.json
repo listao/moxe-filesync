@@ -1,5 +1,9 @@
 [
     {
+        "Value": "VueJS",
+        "DisplayName": "A another popular FE framework"
+    },
+    {
         "Value": "SVELTE",
         "DisplayName": "A new FE framework"
     },
